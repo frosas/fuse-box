@@ -103,7 +103,7 @@ const codeSplittingDescription = `
 `;
 
 const hotModuleReplacementDescription = `
-* Hightly customizable
+* Highly customizable
 * Differential updates
 * No page reloads
 `;
